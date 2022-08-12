@@ -11,6 +11,6 @@ https://www.figma.com/file/K7uvEkEpzMU1r3Oj7zwACs/Stage-03---Formul%C3%A1rio-int
 
 Segue abaixo o Desafio - Recriando Formulário Concluído:
 
-![Desafio-04 Final Parte 1](https://user-images.githubusercontent.com/107876889/184411619-350dd551-63fe-44bc-b78e-75a26c676ac0.png)
+![Desafio-04 Final Parte 1](https://user-images.githubusercontent.com/107876889/184411940-d5dd2829-e3b8-47bf-86d8-a619cc41fbb8.png)
 
 ![Desafio-04 Final Parte 2](https://user-images.githubusercontent.com/107876889/184411640-91091994-e495-4400-9332-e111c07b90bd.png)
